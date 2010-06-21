@@ -1,0 +1,15 @@
+h1, h2,h3
+{
+color: blue;
+font-size: 18px;
+}
+p
+{
+color: red;
+font-size: 10px;
+}
+.classique
+{
+  color: green;
+  font-size:8px;
+}
